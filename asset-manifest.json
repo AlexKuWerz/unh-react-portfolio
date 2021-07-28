@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/unh-react-portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/unh-react-portfolio/static/js/main.fd45be4f.chunk.js",
-    "main.js.map": "/unh-react-portfolio/static/js/main.fd45be4f.chunk.js.map",
-    "runtime-main.js": "/unh-react-portfolio/static/js/runtime-main.6005d8a0.js",
-    "runtime-main.js.map": "/unh-react-portfolio/static/js/runtime-main.6005d8a0.js.map",
-    "static/js/2.b2cd3f2a.chunk.js": "/unh-react-portfolio/static/js/2.b2cd3f2a.chunk.js",
-    "static/js/2.b2cd3f2a.chunk.js.map": "/unh-react-portfolio/static/js/2.b2cd3f2a.chunk.js.map",
-    "static/js/3.d6d5ca6b.chunk.js": "/unh-react-portfolio/static/js/3.d6d5ca6b.chunk.js",
-    "static/js/3.d6d5ca6b.chunk.js.map": "/unh-react-portfolio/static/js/3.d6d5ca6b.chunk.js.map",
+    "main.js": "/unh-react-portfolio/static/js/main.f1914754.chunk.js",
+    "main.js.map": "/unh-react-portfolio/static/js/main.f1914754.chunk.js.map",
+    "runtime-main.js": "/unh-react-portfolio/static/js/runtime-main.c8dbd8fc.js",
+    "runtime-main.js.map": "/unh-react-portfolio/static/js/runtime-main.c8dbd8fc.js.map",
+    "static/js/2.10b3208e.chunk.js": "/unh-react-portfolio/static/js/2.10b3208e.chunk.js",
+    "static/js/2.10b3208e.chunk.js.map": "/unh-react-portfolio/static/js/2.10b3208e.chunk.js.map",
     "index.html": "/unh-react-portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/unh-react-portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b2cd3f2a.chunk.js.LICENSE.txt": "/unh-react-portfolio/static/js/2.b2cd3f2a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/unh-react-portfolio/static/media/logo.6ce24c58.svg"
+    "static/js/2.10b3208e.chunk.js.LICENSE.txt": "/unh-react-portfolio/static/js/2.10b3208e.chunk.js.LICENSE.txt",
+    "static/media/avatar.ce4f6596.JPG": "/unh-react-portfolio/static/media/avatar.ce4f6596.JPG",
+    "static/media/code-quiz.a6da0cd9.jpg": "/unh-react-portfolio/static/media/code-quiz.a6da0cd9.jpg",
+    "static/media/game-pulse.569ecfe1.jpg": "/unh-react-portfolio/static/media/game-pulse.569ecfe1.jpg",
+    "static/media/restful-cabin-retreats.54b498f2.jpg": "/unh-react-portfolio/static/media/restful-cabin-retreats.54b498f2.jpg",
+    "static/media/weather-dashboard.31ea08b7.jpg": "/unh-react-portfolio/static/media/weather-dashboard.31ea08b7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6005d8a0.js",
-    "static/js/2.b2cd3f2a.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fd45be4f.chunk.js"
+    "static/js/runtime-main.c8dbd8fc.js",
+    "static/js/2.10b3208e.chunk.js",
+    "static/js/main.f1914754.chunk.js"
   ]
 }
