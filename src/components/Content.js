@@ -2,6 +2,7 @@ import AvatarBlock from "./blocks/Avatar/index";
 import AboutBlock from "./blocks/About";
 import SkillsBlock from "./blocks/Skills";
 import WorksBlock from "./blocks/Works";
+import ContactFormBlock from "./blocks/ContactForm";
 import ContactLinksBlock from "./blocks/ContactLinks";
 
 function Content(props) {
@@ -31,6 +32,7 @@ function Content(props) {
         if (currentPage === 'Contact') {
             contentBlocks = [
                 <ContactLinksBlock key="Contact Me" />,
+                <ContactFormBlock key="Contact Form" />,
             ];
         }
 

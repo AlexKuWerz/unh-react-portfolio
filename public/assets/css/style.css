@@ -157,6 +157,10 @@ img {
     outline: none;
 }
 
+form {
+    display: block;
+}
+
 /* ^ Basic Styles media query */
 
 @media screen and (max-width: 992px) {
@@ -545,6 +549,75 @@ img {
 
 
 /*----- #6 General Styles -----*/
+
+.form-field {
+    margin-bottom: var(--twofold-indent);
+}
+
+.form-field-message {
+    color: var(--blue-2);
+    font-size: .8rem;
+}
+
+.form-label {
+    display: inline-block;
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-bottom: var(--default-indent);
+}
+
+.form-input {
+    display: block;
+    color: var(--grey-1);
+    border-radius: var(--small-border-size);
+    border: 1px solid var(--orange-2);
+    background-color: var(--white);
+    font-size: 1rem;
+    line-height: 1.2;
+    width: 100%;
+    padding: var(--default-indent);
+    margin-bottom: var(--default-indent);
+}
+
+.form-input:focus {
+    outline-color: var(--orange-1);
+}
+
+textarea.form-input {
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 100px;
+}
+
+.form-input.not-valid-input {
+    border-color: var(--blue-2);
+}
+
+.btn {
+    appearance: none;
+    display: inline-block;
+    color: var(--white);
+    border: none;
+    border-radius: var(--small-border-size);
+    background-color: var(--orange-2);
+    font-size: 1.2rem;
+    line-height: 1;
+    font-weight: 700;
+    text-decoration: none;
+    padding: var(--twofold-indent) var(--threefold-indent);
+    transition: background-color .25s ease-in-out;
+    cursor: pointer;
+}
+
+.btn:hover,
+.btn:focus {
+    color: var(--white);
+    background-color: var(--orange-1);
+}
+
+.btn:focus {
+    outline-color: var(--orange-2);
+}
 
 /* ^ General Styles media query */
 
